@@ -1,0 +1,10 @@
+
+#build a python image and install boto3 
+
+from python:latest
+
+run pip install boto3
+
+cmd "Python"
+
+
